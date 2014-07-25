@@ -1,0 +1,4 @@
+SpringLoginSystemAnnotationBased
+================================
+
+fully annotation based
